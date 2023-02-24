@@ -7,3 +7,9 @@ h1, p, li{
 h1{
     color: red;
 }
+
+
+div{
+    background-image: url(/fond_fifa23.jpg);
+    height: 300px;
+}
